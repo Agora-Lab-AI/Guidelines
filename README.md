@@ -90,7 +90,13 @@ _____________________________________
 6. Opacity. The code is hard to understand.
 
 
-
+# Adding Features
+1. Lower Requirements to stupid minimum
+2. Simplify requirements even futher
+3. Build MVP
+4. Optimize and remove clutter
+5. Add Extensive Test for every feature
+6. Accelerate add more features
 
 
 
